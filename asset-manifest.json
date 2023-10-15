@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.038d757e.css",
+    "main.js": "/static/js/main.c378e75c.js",
+    "static/js/787.02da5536.chunk.js": "/static/js/787.02da5536.chunk.js",
+    "static/media/cooper.png": "/static/media/cooper.22b96d6caf83917ee7dd.png",
+    "static/media/cooper3.jpg": "/static/media/cooper3.35c561863ec8cdb968ce.jpg",
+    "static/media/cooper1.jpg": "/static/media/cooper1.fb41d10139941db50bfd.jpg",
+    "static/media/cooper4.jpg": "/static/media/cooper4.7a7fbfc6167223f4d22d.jpg",
+    "static/media/cooper2.jpg": "/static/media/cooper2.4c38d1280fbe8c334576.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.038d757e.css.map": "/static/css/main.038d757e.css.map",
+    "main.c378e75c.js.map": "/static/js/main.c378e75c.js.map",
+    "787.02da5536.chunk.js.map": "/static/js/787.02da5536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038d757e.css",
+    "static/js/main.c378e75c.js"
+  ]
+}
