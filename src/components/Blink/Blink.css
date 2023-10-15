@@ -1,0 +1,15 @@
+.blink {
+  position: absolute;
+  z-index: -3;
+  width: 956px;
+  height: 1012px;
+  flex-shrink: 0;
+  border-radius: 1012px;
+  opacity: 0.5;
+  background: radial-gradient(
+    41.97% 78.14% at 74.07% 12.71%,
+    rgba(143, 191, 253, 0.5) 0%,
+    rgba(38, 72, 122, 0.6) 29.63%,
+    rgba(15, 18, 24, 0) 100%
+  );
+}

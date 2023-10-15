@@ -1,0 +1,27 @@
+.carousel-wrapper{
+    padding-top: 40px;
+    background-color: #101822;
+    width: 100%;
+    border-top: 1px solid rgba(143, 191, 253, 0.5);
+    padding-bottom: 120px;
+}
+.item-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-img{
+    width: 1200px;
+    height: 800px;
+    border-radius: 10px;
+}
+.carousel-heading{
+    font-size: 44px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family: Montserrat;
+    margin-bottom: 40px;
+    font-weight: bolder;
+}
